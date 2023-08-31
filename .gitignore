@@ -1,0 +1,11 @@
+.ansible/
+.bash_history
+.bash_logout
+.cache/
+.docker/
+.gitconfig
+.local/
+.profile
+.ssh/
+data/
+postgresql
